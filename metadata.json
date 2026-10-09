@@ -1,0 +1,6 @@
+{
+  "name": "InkCode — O que vem no teu site",
+  "description": "Mini site educativo da InkCode apresentando tudo o que o site profissional inclui, tecnologia Vercel e parceria de 5 anos para estúdios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
